@@ -1,0 +1,4 @@
+*hello.labelString:	Hello, World!
+*XmLabel.foreground:	white
+*XmLabel.background:	black
+*hello.width:		300

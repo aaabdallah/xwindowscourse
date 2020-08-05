@@ -1,0 +1,8 @@
+!*hello.fontList:	vply-36
+*hello.labelString:	Hello, World!
+!*hello.labelString:	$1099.99
+!*hello.alignment: XmALIGNMENT_END
+*hello.background:	black
+*hello.foreground:	yellow
+*hello.labelType:	XmPIXMAP
+*hello.labelPixmap:	/usr/cse02/X11/include/X11/bitmaps/terminal
